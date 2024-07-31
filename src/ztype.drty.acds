@@ -1,0 +1,4 @@
+
+@EndUserText.label: 'myLabel'
+@EndUserText.quickInfo: 'lala'  
+define type ztype : abap.int4;

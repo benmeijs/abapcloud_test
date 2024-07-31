@@ -1,0 +1,19 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "ZBM_JOB_TEMPLATE_VIA_WIZARD",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "catalogName": "ZBM_JOB_CATALOG_VIA_WIZARD"
+  },
+  "parameters": {
+    "singleValueParameters": [
+      {
+        "name": "P_MATNR",
+        "value": "A100"
+      }
+    ]
+  }
+}
